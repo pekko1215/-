@@ -1,0 +1,15 @@
+{
+  "name": "chromesheller",
+  "version": "0.0.17",
+  "description": "全部Chromeでやればいいじゃん",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jschardet": "^1.4.2",
+    "utf8": "^2.1.2"
+  }
+}

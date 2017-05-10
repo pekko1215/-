@@ -1,0 +1,46 @@
+input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    /*border: none;*/
+    background: none;
+    -webkit-appearance: none;
+    color: lime;
+    width: 100%;
+}
+
+html {
+    background-color: black;
+    color: white;
+}
+body{
+}
+.std {
+    color: white;
+}
+
+.error {
+    color: red;
+}
+.command{
+	color:green;
+}
+
+#console{
+    bottom: 10%;
+    font-size: 1;
+    margin-bottom: 40px;
+}
+
+div#footer {
+    position: fixed !important;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background-color: #222222;
+    color: #fff;
+}
